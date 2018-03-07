@@ -1,0 +1,33 @@
+{
+  "name": "pendencias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaelsantana/Pendencias.git"
+  },
+  "author": "isael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaelsantana/Pendencias/issues"
+  },
+  "homepage": "https://github.com/isaelsantana/Pendencias#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.6",
+    "mssql": "^4.1.0",
+    "node-schedule": "^1.3.0",
+    "sequelize": "^4.35.1"
+  }
+}

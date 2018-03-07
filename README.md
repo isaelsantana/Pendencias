@@ -10,7 +10,7 @@
 
 ## Configuração 
 
-  E utilizado um arquivo config.js(caminho config/config.js) que contém as informações de banco de dados da aplicação , deve ser configurado de acordo 
+  É utilizado o arquivo config.js (caminho config/config.js) que contém as informações de banco de dados da aplicação , deve ser configurado de acordo 
   com banco de dados utilizado.
 
 ```javascript
